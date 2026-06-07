@@ -167,7 +167,7 @@ Arazinin kenarından bir dere akmaya başladı. Yeni otlaklar, yeni misafirler.
 
 | 🌾 Tohum | 🐾 Hayvan |
 |----------|----------|
-| — | 🐑 Koyun, Dere başlangıcı |
+| Elma Ağacı | 🐑 Koyun |
 
 ---
 
@@ -185,7 +185,7 @@ Arazinin kenarından bir dere akmaya başladı. Yeni otlaklar, yeni misafirler.
 
 | 🌾 Tohum | 🐾 Hayvan |
 |----------|----------|
-| — | 🐝 Arı Kovanları |
+| Limon Ağacı | 🐝 Arı Kovanları |
 
 ---
 
